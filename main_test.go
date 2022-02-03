@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/rombintu/gotinkoff/api"
+	"github.com/rombintu/gotin/api"
 )
 
 func TestGet(t *testing.T) {

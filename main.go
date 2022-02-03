@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/rombintu/gotinkoff/cli"
+	"github.com/rombintu/gotin/cli"
 )
 
 func main() {

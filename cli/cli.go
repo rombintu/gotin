@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	API "github.com/rombintu/gotinkoff/api"
+	API "github.com/rombintu/gotin/api"
 	"github.com/urfave/cli"
 )
 

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rombintu/gotinkoff/models"
+	"github.com/rombintu/gotin/models"
 )
 
 type API struct {
